@@ -1,0 +1,10 @@
+
+VENTAS:
+
+Gorro orejas:     25000 Unidades
+
+Chaquetas moto:  1282300 Unidades
+
+Sacos de lana:   159000 Unidades
+  
+Pañoletas:       126000 Unidades
